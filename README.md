@@ -34,24 +34,21 @@ Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">
 <strong>End User Login:</strong> <a href="http://localhost/osTicket">End User osTicket Portal</a>
 </p>
 
+<img src="https://i.imgur.com/gwetvu3.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 
-
-1. **Log In:** Access your agent account to begin managing tickets.
-2. **Review New Tickets:** Check the Tickets section for newly submitted tickets that require attention.
-3. **Categorize:** Assign the ticket to the appropriate Help Topic (e.g., Business Critical Outage, Equipment Request) to ensure proper routing.
+To begin managing tickets, log into your agent account. Once logged in, check the **Tickets** section for any newly submitted tickets that need attention. Next, ensure that each ticket is assigned to the appropriate **Help Topic** (e.g., Business Critical Outage, Equipment Request) to ensure it is properly routed for resolution.
 
 
 
 <img src="https://i.imgur.com/7oBx5Qd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
-4. **Assign and Prioritize:** Based on the ticket severity, assign it to the right agent or team and set the priority level (e.g., high, medium, low).
-5. **Respond:** Provide a clear and helpful response to the user. Update the ticket status (e.g., In Progress or Pending) as you work through the issue.
+After categorizing the ticket, assign it to the appropriate agent or team based on the ticket's severity and set the priority level (e.g., high, medium, low). Then, provide a clear and helpful response to the user, addressing their issue. As you work through the ticket, make sure to update its status (e.g., **In Progress** or **Pending**) to keep the workflow organized and transparent.
 
 <img src="https://i.imgur.com/Sbq4Af9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-6. **Resolve and Close:** Once the issue is fixed, update the ticket status to Closed to complete the process.
+Once the issue is resolved, update the ticket status to **Closed** to complete the process and mark the ticket as finished.
 
 <img src="https://i.imgur.com/PpiWvb6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
