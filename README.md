@@ -33,26 +33,23 @@ Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">
 <p>
 <strong>End User Login:</strong> <a href="http://localhost/osTicket">End User osTicket Portal</a>
 </p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+1. **Log In:** Access your agent account to begin managing tickets.
+2. **Review New Tickets:** Check the Tickets section for newly submitted tickets that require attention.
+3. **Categorize:** Assign the ticket to the appropriate Help Topic (e.g., Business Critical Outage, Equipment Request) to ensure proper routing.
+
+
+
+<img src="https://i.imgur.com/7oBx5Qd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+
+4. **Assign and Prioritize:** Based on the ticket severity, assign it to the right agent or team and set the priority level (e.g., high, medium, low).
+5. **Respond:** Provide a clear and helpful response to the user. Update the ticket status (e.g., In Progress or Pending) as you work through the issue.
+
+<img src="https://i.imgur.com/Sbq4Af9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+6. **Resolve and Close:** Once the issue is fixed, update the ticket status to Closed to complete the process.
+
+<img src="https://i.imgur.com/PpiWvb6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
