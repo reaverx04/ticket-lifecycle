@@ -36,6 +36,8 @@ Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">
 
 
 
+
+
 1. **Log In:** Access your agent account to begin managing tickets.
 2. **Review New Tickets:** Check the Tickets section for newly submitted tickets that require attention.
 3. **Categorize:** Assign the ticket to the appropriate Help Topic (e.g., Business Critical Outage, Equipment Request) to ensure proper routing.
