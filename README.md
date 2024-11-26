@@ -25,6 +25,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+**Important Notice:**
+
+Please ensure you're logging in on the correct page:
+<p></p><strong>
+Admin/Analyst Login:</strong> <a href="http://localhost/osTicket/scp/login.php">Admin/Analyst Login Page</a>
+<p>
+<strong>End User Login:</strong> <a href="http://localhost/osTicket">End User osTicket Portal</a>
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
