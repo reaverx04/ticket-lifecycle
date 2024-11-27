@@ -47,7 +47,7 @@ To begin managing tickets, log into your agent account. Once logged in, check th
 
 After categorizing the ticket, assign it to the appropriate agent or team based on the ticket's severity and set the priority level (e.g., high, medium, low). Then, provide a clear and helpful response to the user, addressing their issue. As you work through the ticket, make sure to update its status (e.g., **In Progress** or **Pending**) to keep the workflow organized and transparent.
 
-<img src="https://i.imgur.com/GjioR0c.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lgZ8kE8.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 Once the issue is resolved, update the ticket status to **Closed** to complete the process and mark the ticket as finished.
 
